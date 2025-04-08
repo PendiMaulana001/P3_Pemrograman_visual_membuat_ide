@@ -1,6 +1,6 @@
 IDE AWAL APLIKASI DESKTOP "JUAL TIKET MASUK BANDARA"
 
-Nama Aplikasi: Jual Masuk Tiket Bandara
+Nama Aplikasi: JualTiket  Masuk Bandara
 
 Tujuan: Membuat aplikasi desktop sederhana untuk membantu petugas bandara dalam mengelola data penjualan tiket masuk. Aplikasi ini akan menyimpan informasi tiket secara terstruktur dan memungkinkan pengelolaan data secara efisien menggunakan antarmuka pengguna yang mudah dipahami.
 Permasalahan: Petugas bandara sering kali mencatat tiket masuk secara manual, yang rawan kesalahan dan sulit dikelola jika jumlah data banyak. Dibutuhkan aplikasi sederhana yang dapat membantu mencatat, menampilkan, memperbarui, dan menghapus data tiket dengan cepat dan akurat.
